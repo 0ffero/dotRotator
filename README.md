@@ -1,6 +1,6 @@
 # dotRotator
 
-So, my son and I were watching a youtube video one day.
+So, my son and I were watching a youtube video one day ( https://www.youtube.com/watch?v=FmZN1ors__s&t=18s ).
 
 It was all about randomly putting dots on a piece of paper. After doing that you would take a piece of acetate and duplicate all the dots you made. When rotating or moving the second copy it creates images that look like spiral galaxies and other star like images. It was pretty cool.
 
